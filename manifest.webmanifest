@@ -1,0 +1,16 @@
+{
+  "name": "Kleiderschrank – Outfit-Planer",
+  "short_name": "Kleiderschrank",
+  "description": "Kleidung scannen, tägliche Outfit-Vorschläge und Reiseplanung mit Packliste.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ee",
+  "theme_color": "#b5543c",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
